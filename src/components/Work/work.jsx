@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { projects } from "../../constants";
 
-const Work = () => {
+const work = () => {
   const [selectedProject, setSelectedProject] = useState(null);
 
   const handleOpenModal = (project) => {
@@ -129,4 +129,4 @@ const Work = () => {
   );
 };
 
-export default Work;
+export default work;
