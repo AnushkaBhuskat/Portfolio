@@ -3,7 +3,7 @@ import React from "react";
 import { SkillsInfo } from "../../constants";
 import Tilt from "react-parallax-tilt";
 
-const Skills = () => (
+const skills = () => (
   <section
     id="skills"
     className="py-24 px-[8vw] md:px-[7vw] lg:px-[15vw] font-sans bg-skills-gradient clip-path-custom"
@@ -65,4 +65,4 @@ const Skills = () => (
   </section>
 );
 
-export default Skills;
+export default skills;
