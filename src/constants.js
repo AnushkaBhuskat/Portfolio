@@ -28,7 +28,7 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 import canva from './assets/tech_logo/canva.png';
 // Experience Section Logo's
 import intel from './assets/company_logo/intel.png';
-import WSA from './assets/company_logo/wsa.png';
+import WSA from './assets/company_logo/WSA.png';
 
 // EducationSection Logo's
 import ssgmce from './assets/education_logo/ssgmce.png';
