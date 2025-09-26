@@ -20,15 +20,7 @@ const skills = () => (
     {/* Skill Categories */}
     <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 lg:gap-12 py-10">
       {SkillsInfo.map((category) => (
-        <Tilt
-          key={category.title}
-          tiltMaxAngleX={15}
-          tiltMaxAngleY={15}
-          perspective={1000}
-          scale={1.05}
-          transitionSpeed={1000}
-          gyroscope={true}
-        >
+       
           <div
             className="bg-gray-900 backdrop-blur-md px-6 sm:px-8 py-8 
                        rounded-2xl border border-white/10 
@@ -59,7 +51,7 @@ const skills = () => (
               ))}
             </div>
           </div>
-        </Tilt>
+       
       ))}
     </div>
   </section>
