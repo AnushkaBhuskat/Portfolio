@@ -4,9 +4,9 @@ import About from "./components/About/About";
 import Skills from "./components/Skills/skills";
 import Experience from "./components/Experience/experience";
 import Work from "./components/Work/Work";
-import Education from "./components/Education/Education";
-import Contact from "./components/Contact/Contact";
-import Footer from "./components/Footer/Footer";
+import Education from "./components/Education/education";
+import Contact from "./components/Contact/contact";
+import Footer from "./components/Footer/footer";
 import BlurBlob from './BlurBlob';
 
 const App = () => {
