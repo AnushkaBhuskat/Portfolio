@@ -101,7 +101,7 @@ export const SkillsInfo = [
     img:WSA,
     company:"Web Stack Academy",
     role: "MERN Stack Developer",
-    date:"September 3 2025 - October 3 2025",
+    date:"September  2025 - October  2025",
     desc:"Learn the frontend and backend development of web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Make a fullstack project using the MERN stack, name is \"HomelyHub.\"",
     skills:["HTML","CSS","JavaScript","React JS","Node JS","MongoDB","Express JS","MERN"],
   },
