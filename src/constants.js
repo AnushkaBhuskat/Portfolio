@@ -26,6 +26,7 @@ import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import canva from './assets/tech_logo/canva.png';
+import versal from './assets/tech_logo/versal.png';
 // Experience Section Logo's
 import intel from './assets/company_logo/intel.png';
 import WSA from './assets/company_logo/WSA.png';
@@ -90,6 +91,7 @@ export const SkillsInfo = [
       { name: 'VS Code', logo: vscodeLogo },
       { name: 'Canva', logo: canva },
       { name: 'Netlify', logo: netlifyLogo },
+     { name: 'Versal', logo: versal},
       
     ],
   },
