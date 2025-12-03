@@ -13,7 +13,7 @@ import bootstrapLogo from './assets/tech_logo/bootstrap.png';
 
 import nodejsLogo from './assets/tech_logo/nodejs.png';
 import expressjsLogo from './assets/tech_logo/express.png';
-import mysqlLogo from './assets/tech_logo/mysql.png';
+//import mysqlLogo from './assets/tech_logo/mysql.png';
 import mongodbLogo from './assets/tech_logo/mongodb.png';
 
 import cLogo from './assets/tech_logo/c.png';
@@ -68,7 +68,7 @@ export const SkillsInfo = [
      ,
       { name: 'Node JS', logo: nodejsLogo },
       { name: 'Express JS', logo: expressjsLogo },
-      { name: 'MySQL', logo: mysqlLogo },
+     // { name: 'MySQL', logo: mysqlLogo },
       { name: 'MongoDB', logo: mongodbLogo },
      
     ],
