@@ -30,6 +30,7 @@ import versal from './assets/tech_logo/versal.png';
 // Experience Section Logo's
 import intel from './assets/company_logo/intel.png';
 import WSA from './assets/company_logo/WSA.png';
+import progrentures from './assets/company_logo/progrentures.png';
 
 // EducationSection Logo's
 import ssgmce from './assets/education_logo/ssgmce.png';
@@ -42,6 +43,8 @@ import Amazon from './assets/work_logo/Amazon.png'
 import calculator from './assets/work_logo/calculator.png'
 import Website from './assets/work_logo/Website.png'
 import wordFreq from './assets/work_logo/wordFreq.jpg'
+import SmartFormFiller from './assets/work_logo/SmartFormFiller.png'
+import HomelyHub from './assets/work_logo/HomelyHub.png'
 
 
 export const SkillsInfo = [
@@ -121,6 +124,20 @@ export const SkillsInfo = [
       "ML", 
     ],
   },
+    {
+    id: 2,
+    img: progrentures,
+    company: "Progrentures",
+    role: "Full Stack Web Development Intern",
+    date: " Ongoing",
+    desc: "Building web applications using Mern stack.",
+    skills: [
+      "MongoDB",
+      "Express JS",
+      "React JS",
+      "Node JS",
+    ],
+  },
   ]
   export const education = [
     {
@@ -195,5 +212,25 @@ export const SkillsInfo = [
       tags: [ "Python"],
       github: "https://github.com/AnushkaBhuskat/wordfreq1",
       webapp: "https://colab.research.google.com/drive/1LQqjDcIq70Wgq1FL7c4aRN9Yxz2Y8AVR"
+    },
+   {
+      id: 4,
+      title: "AI powered Smart form filling Assistance for Indian Citizen Services",
+      description:
+        "AI-based form filling system that auto-extracts citizen details from documents (Aadhaar, PAN, etc.) using OCR/NLP and auto-fills government service forms with multi-language and voice input support.",
+      image: SmartFormFiller,
+      tags: [ "Python", "AI", "ML", "NLP", "OCR"],
+      github: "https://github.com/AnushkaBhuskat/Smart-Form-Filler",
+      webapp: "https://smart-form-filler-rho.vercel.app/",
+    },
+    {
+      id: 5,
+      title: "HomelyHub",
+      description:
+        "Homely Hub is a MERN-based accommodation booking platform that lets users search, filter, and book properties easily. It provides a smooth and responsive UI with secure login and real-time booking updates. Built using React.js, Node.js/Express.js, and MongoDB, the system ensures fast performance and reliable data management. The platform focuses on simplicity, security, and a seamless booking experience.",
+      image: HomelyHub,
+      tags: [  "React JS", "Node JS", "MongoDB", "Express JS"],
+      github: "https://github.com/AnushkaBhuskat/HomelyHub",
+      webapp: "https://homely-hub-five.vercel.app/",
     },
   ];
