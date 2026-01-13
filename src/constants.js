@@ -231,6 +231,6 @@ export const SkillsInfo = [
       image: HomelyHub,
       tags: [  "React JS", "Node JS", "MongoDB", "Express JS"],
       github: "https://github.com/AnushkaBhuskat/HomelyHub",
-      webapp: "https://homely-hub-five.vercel.app/",
+      webapp: "https://homely-hub-prj-frontend.onrender.com",
     },
   ];
