@@ -173,7 +173,7 @@ export const SkillsInfo = [
   
   export const projects = [
     {
-      id: 0,
+      id: 2,
       title: "Practical Website ",
       description:
         "Developed and deployed a responsive, user-friendly website on Netlify showcasing 10 practicals of HTML, CSS, JavaScript, and PHP as part of my 3rd semester curriculum. The project is designed to provide an engaging learning experience where users can interact with practical examples directly, rather than just reading lab manuals",
@@ -184,7 +184,7 @@ export const SkillsInfo = [
 
     },
     {
-      id: 1,
+      id: 3,
       title: "Calculator with ReactJS",
       description:
         "An interactive, responsive calculator built using React JS, showcasing modern frontend development practices. It performs basic arithmetic operations and features a clean, user-friendly interface that works seamlessly across devices. The project demonstrates component-based architecture, state management, and event handling in React, emphasizing reusable and modular code.",
@@ -194,7 +194,7 @@ export const SkillsInfo = [
       webapp: "https://anushkabhuskat.github.io/React_Calculator/",
     },
     {
-      id: 3,
+      id: 4,
       title: "Amazon Clone",
       description:
         "Developed a responsive Amazon-inspired e-commerce website using HTML and CSS. The project replicates the layout and design of a modern online shopping platform, focusing on user interface, navigation, and product presentation.",
@@ -204,7 +204,7 @@ export const SkillsInfo = [
       webapp: "https://anushkabhuskat.github.io/amazonclone/",
     },
     {
-      id: 3,
+      id: 5,
       title: "WordFreq with python",
       description:
         "his Python project takes a text input, breaks it into words, and calculates the frequency of each. It’s a simple yet useful program for learning text processing, string manipulation, and working with dictionaries.",
@@ -214,7 +214,7 @@ export const SkillsInfo = [
       webapp: "https://colab.research.google.com/drive/1LQqjDcIq70Wgq1FL7c4aRN9Yxz2Y8AVR"
     },
    {
-      id: 4,
+      id: 1,
       title: "AI powered Smart form filling Assistance for Indian Citizen Services",
       description:
         "AI-based form filling system that auto-extracts citizen details from documents (Aadhaar, PAN, etc.) using OCR/NLP and auto-fills government service forms with multi-language and voice input support.",
@@ -224,7 +224,7 @@ export const SkillsInfo = [
       webapp: "https://smart-form-filler-rho.vercel.app/",
     },
     {
-      id: 5,
+      id: 0,
       title: "HomelyHub",
       description:
         "Homely Hub is a MERN-based accommodation booking platform that lets users search, filter, and book properties easily. It provides a smooth and responsive UI with secure login and real-time booking updates. Built using React.js, Node.js/Express.js, and MongoDB, the system ensures fast performance and reliable data management. The platform focuses on simplicity, security, and a seamless booking experience.",
